@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "Variaveis/Desafios/src",
+        "Repetição/Desafios/src",
+        "HerançaePolimorilismo/Exemplo/src",
+        "Exercicio3/Exercicio/src",
+        "Exercicio1/Exercicio/src",
+        "Exceção/Exercicios/src"
+    ]
+}
